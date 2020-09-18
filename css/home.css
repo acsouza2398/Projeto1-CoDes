@@ -1,0 +1,23 @@
+html, body, main{
+	height: 100%;
+	margin: 0;
+}
+
+iframe{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-self: center;
+    height:90%;
+    width: 100%;
+}
+
+p{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    align-self: center;
+    margin: .5rem;
+    padding: .5rem;
+    font-size:1.5rem;
+}
