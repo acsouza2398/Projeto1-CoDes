@@ -1,0 +1,29 @@
+html, body{
+	height: 100%;
+	margin: 0;
+}
+
+header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 3.5rem;
+	width:100%;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+    align-items: center;
+    padding: 2rem;
+    margin: 2rem;
+}
+.formulario {
+    border: 0.1rem solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
+.texto {
+    margin: 0.5rem;
+}
