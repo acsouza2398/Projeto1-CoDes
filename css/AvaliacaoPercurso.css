@@ -15,7 +15,6 @@ h1 {
 	font-size: 2rem;
 }
 
-/* ta dando alguma coisa erra que os checkboxes nao ficam no centro da tela*/
 main{
 	height: 50%;
 	display: flex;
