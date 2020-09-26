@@ -22,3 +22,8 @@ iframe{
     margin: .5rem;
     padding: .5rem;
 }
+
+a{
+    border: 0.1rem solid black;
+    background-color:#8CFFD1
+}
