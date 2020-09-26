@@ -1,15 +1,15 @@
 html, body{
 	height: 100%;
-	margin: 0;
 	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #78E6FF;
 }
 
 header{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-size: 2rem;
-	width:100%;
+	font-size: 2.5rem;
+	
 }
 
 body{
@@ -17,4 +17,12 @@ body{
 	flex-direction: column;
 	justify-content: space-evenly;
 	align-items: center;
+	margin: 0.5rem;
+}
+
+a {
+	border: 0.1rem solid black;
+	padding: 0.5rem;
+	background-color: #8CFFD1;
+	margin: 0.5rem;
 }

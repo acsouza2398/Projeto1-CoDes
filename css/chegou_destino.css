@@ -1,5 +1,6 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    background-color: #78E6FF;
 }
 header {
     display: flex;
@@ -16,6 +17,7 @@ h1 {
 }
 img {
     width:80%;
+    border: 0.5rem solid black
 }
 main {
     display: flex;
@@ -28,6 +30,7 @@ main {
 }
 .options {
     border: 0.1rem solid black;
-    padding: 0.5rem;
+    padding: 1rem;
     margin: 1rem;
+    background-color: #8CFFD1;
 }
