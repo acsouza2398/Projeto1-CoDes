@@ -14,13 +14,22 @@ iframe{
     width: 100%;
 }
 
-a{
+p{
     display: flex;
     flex-direction:row;
-    justify-content: space-evenly;
+    justify-content: center;
     align-self: center;
+}
+
+a {
+    background-color:#8CFFD1
+}
+.onde, .avalia {
     border: 0.1rem solid black;
     margin: 1rem;
     padding: 1rem;
-    background-color:#8CFFD1
+}
+
+.onde {
+    flex-grow: 0.05;
 }
